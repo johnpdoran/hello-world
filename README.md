@@ -1,8 +1,8 @@
 # hello-world
 My hello world repository
 
-Hi everybody,
+Hi someybody,
 
-I have made some simple changes to this file!
+I have made some simple changes to this file! Now I have added more changes.
 
-Bye for now...
+That's all folks!
